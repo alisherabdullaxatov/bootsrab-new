@@ -1,0 +1,32 @@
+.m{
+ 
+    width: 30%;
+}
+.a{
+    display: flex;
+    justify-content: space-between;
+}
+i{
+    font-size: 20px;
+    margin: 0 3px;
+}
+.bg-h{
+    height: 8vh;
+  
+}
+.btn-hover{
+    transition-duration: 200ms;
+    color: blueviolet;
+    border: none;
+}
+.btn-hover:hover{
+    background-color: blueviolet;
+    color: white;
+
+}
+
+.dropdown-style{
+    color: #B7BBBF;
+    border: solid 1px #B7BBBF;
+    background-color: white ;
+}  
