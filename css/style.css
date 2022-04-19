@@ -30,3 +30,13 @@ i{
     border: solid 1px #B7BBBF;
     background-color: white ;
 }  
+.parogroph{
+    color: #212529;
+    font-weight: 300;
+}
+.h5{
+    color: #6C757D;
+}
+.ul-li{
+    list-style: none;
+}
